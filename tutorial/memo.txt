@@ -1,0 +1,6 @@
+/Users/home/Library/Preferences/cargo-atcoder.toml
+
+// 文字列読み込み
+let mut s = String::new();
+io::stdin().read_line(&mut s).unwrap();
+let ch = s.chars().collect::<Vec<char>>();
